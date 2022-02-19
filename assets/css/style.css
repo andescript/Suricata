@@ -1,0 +1,19 @@
+body {
+  font-family: Open Sans;
+}
+
+.pink {
+  background-color: var(--pink);
+}
+
+.card {
+  max-width: 16rem;
+}
+
+.card h5, .card p, .card li {
+  color: #373A3C;
+}
+
+.card li, .card a {
+  font-size: 11px;
+}
